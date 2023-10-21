@@ -124,9 +124,9 @@ console.log("templeText",templePart);
               <h6 className="dlab-title">
                 <a href="blog-details-2.html">{item.attributes.nameInEnglish}</a>
               </h6>
-              <h6 className="dlab-title">
+              {/* <h6 className="dlab-title">
                 <a href="blog-details-2.html">{item.attributes.nameInMalayalam}</a>
-              </h6>
+              </h6> */}
             </div>
             {/* <div className="pricingtable-footer d-flex justify-content-center" style={{ marginBottom: '40px' }}>
               <a href="/pricing-table-3" className="btn btn-corner btn-outline-primary">SELECT</a>
